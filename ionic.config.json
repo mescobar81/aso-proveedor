@@ -1,0 +1,7 @@
+{
+  "name": "aso-proveedor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
